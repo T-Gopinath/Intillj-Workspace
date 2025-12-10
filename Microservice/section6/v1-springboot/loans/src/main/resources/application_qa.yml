@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to my world QA REST API's"
+  contactDetails:
+    name: "John Doe - QA LEAD"
+    email: "gopi.thochi_q@gmail.com"
+  onCallSupport:
+    -(040)26728
+    -(91)9945544440

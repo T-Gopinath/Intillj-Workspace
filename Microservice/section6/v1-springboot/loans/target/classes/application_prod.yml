@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to my world, prod REST API's"
+  contactDetails:
+    name: "John Doe - Production "
+    email: "gopi.thochi_P@gmail.com"
+  onCallSupport:
+   -(040)26728
+   -(91)9945544440
